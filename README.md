@@ -5,4 +5,4 @@ solve.py:
 ps_lib.py:
   Provides helper functions for reading and writing rgb valued figures.
 
-For demo examples, please visit https://www.airbnb.com/rooms/39672243?adults=6&check_in=2021-12-26&check_out=2021-12-28&federated_search_id=45373ad6-f7a3-4512-bbcc-ae428bb2f065&source_impression_id=p3_1638251891_8qP2%2Bykm17nrtAdX&guests=1
+For demo examples, please visit https://docs.google.com/presentation/d/1YCZtQJuYNDHn-C9R5wVsgnKAeWt18Rk2/edit?usp=sharing&ouid=110222581074873098544&rtpof=true&sd=true
